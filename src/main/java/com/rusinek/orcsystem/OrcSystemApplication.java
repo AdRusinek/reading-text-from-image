@@ -1,13 +1,12 @@
-package com.rusinek;
+package com.rusinek.orcsystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RusinekApplication {
+public class OrcSystemApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RusinekApplication.class, args);
+        SpringApplication.run(OrcSystemApplication.class, args);
     }
-
 }
